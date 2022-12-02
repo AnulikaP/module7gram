@@ -23,9 +23,6 @@
 
 
 /* NAV SECTION STYLE */
-.nav-sec{
-
-}
 .nav-sec nav{
     line-height: 1.8cm;
     position: fixed;
@@ -113,6 +110,9 @@ nav span{
 }
 .container-main .comment p{
     color: rgb(180,220,255);
+}
+.comment input{
+    border-style: none;
 }
 .chyk .intro{
     display: flex;
