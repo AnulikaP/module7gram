@@ -136,7 +136,7 @@ nav span{
 .chyk .img1{
     width: 50px;
     border-radius: 100px;
-    border: 2px solid transparent;
+    border: 2px solid white;
     padding: 2px;
     background: white;
     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(193,252,69,1) 100%);
